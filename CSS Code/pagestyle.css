@@ -1,12 +1,12 @@
+body 
+{
+  background-color: black;
+}
+
 table.center-aligned
 {
   margin-left: auto;
   margin-right: auto;
-}
-
-body
-{
-  background-color: black;
 }
 
 table, td, th
