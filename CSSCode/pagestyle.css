@@ -1,13 +1,12 @@
 body 
 {
-  background-color: black;
   background-image: url("media/galaxy.jpg");
   background-repeat: repeat-x;
 }
 
 h1
 {
-  color: white;
+  color: red;
   font-size: 2em; 
   text-align: center;
 }
