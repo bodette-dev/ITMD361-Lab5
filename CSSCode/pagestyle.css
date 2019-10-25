@@ -1,12 +1,12 @@
 body 
 {
-  background-image: url("media/galaxy.jpg");
+  background-image: url("ITMD361-Lab5/media/galaxy.jpg");
   background-repeat: repeat-x;
 }
 
 h1
 {
-  color: red;
+  color: white;
   font-size: 2em; 
   text-align: center;
 }
