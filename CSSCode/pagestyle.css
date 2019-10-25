@@ -23,6 +23,11 @@ table.center-aligned
   margin-right: auto;
 }
 
+span.superscript
+{
+  vertical-align: super;
+}
+
 th
 {
   border: 2px solid white;
