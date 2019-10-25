@@ -23,15 +23,16 @@ table.center-aligned
   margin-right: auto;
 }
 
-td
+th
 {
   border: 2px solid white;
-  text-align: left;
+  text-align: center;
   color: white;
   padding: 15px;
+  font-weight: bold;
 }
 
-th
+td
 {
   border: 2px solid white;
   text-align: center;
